@@ -1,2 +1,2 @@
 # The-nomads
-a web site with all the content you want in one place 
+a new web site with all the content and things you want in one place 
